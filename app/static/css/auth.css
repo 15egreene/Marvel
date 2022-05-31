@@ -1,0 +1,42 @@
+body {
+    background-image: url("/../static/images/grey.jpeg");
+    background-repeat:no-repeat;
+}
+
+.formmy {
+    color:antiquewhite;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center;
+}
+
+.form-group1 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.button1 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+label {
+    color: antiquewhite;
+}
+
+.form-text {
+    color: antiquewhite;
+}
+
+.register {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15;
+}
